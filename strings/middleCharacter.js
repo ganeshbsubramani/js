@@ -11,6 +11,8 @@
   // string is empty or null.
   // if string is test --> 4/2 -> 2 -> es 
   // if string is odd --> testing --> 7/2 -> 3
+  // couple of other ways to solve problems are accessing the element using arrays 
+  // or charAt method.
 function getMiddle(s){
 
   if ( s == null || s == undefined) return null;
